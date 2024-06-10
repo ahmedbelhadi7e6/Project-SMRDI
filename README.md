@@ -1,4 +1,6 @@
-# Benvingut al meu projecte SMRDI
+<p align="center">
+  # Benvingut al meu projecte SMRDI
+</p>
 
 Aquest enllaç us reedireccionara al codi Python, que l'objectiu principal és automatitzar el procés de lectura i inserció de dades d'alertes de Snort en una base de dades PostgreSQL. Això permet una gestió i anàlisi més eficient de les alertes de seguretat de la xarxa, utilitzant la base de dades per a consultes i reportes posteriors. 
 
